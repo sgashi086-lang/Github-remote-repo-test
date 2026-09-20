@@ -1,3 +1,4 @@
-git init an den start
+git init // for initializing respository
 git add <file>
 git commit -m "your commit message
+git reset --soft HEAD~1
